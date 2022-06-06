@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1643328076 source:c:\users\alex\desktop\facultate\utm_cursuri\an 2\poo\proiect\tema\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"header.h"
+
+1643327842 c:\users\alex\desktop\facultate\utm_cursuri\an 2\poo\proiect\tema\header.h
+	<iostream>
+

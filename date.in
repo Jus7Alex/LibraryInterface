@@ -1,0 +1,30 @@
+The_witcher Autor Domeniu Termen
+Carte Autor Domeniu Termen
+Cei_trei_muschetari Alexandres_Dumas Domeniu 30.01
+
+
+Să se realizeze un program care să asigure gestiunea unei biblioteci universitare ce conține cărţi din
+diferite domenii (literatură, informatică, fizică, matematică, mecanică etc.) specifice cursurilor
+universitare.
+La pornirea aplicaţiei va fi afişat următorul meniu:
+1. Încărcarea datelor despre cărțile din bibliotecă din fişierul carti.in.
+
+
+
+
+2. Crearea unui nou domeniu.
+
+3. Adăugarea unei cărți la un anumit domeniu.
+
+4. Căutarea unei cărți în bibliotecă dupa titlu sau autor.
+
+5. Ştergerea unei cărțî din bibliotecă.
+
+6. Împrumutare / Returnare carte (după cotă).
+
+7. Verificare cărţi cu termen depăşit de împrumut.
+
+
+
+
+9. Ieşire
